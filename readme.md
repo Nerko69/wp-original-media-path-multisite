@@ -1,4 +1,4 @@
-# WP Original Media Path
+# WP Original Media Path - NOT YET READY (Will upload end of April 2022)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/rvola)
 
 Change the location for the uploads folder for WordPress
@@ -69,5 +69,5 @@ This plugin is only used to mount a mirror subdomains on Wordpress installation 
 ## Links
 
 * [**Changelog**](https://github.com/rvola/wp-original-media-path/blob/master/CHANGELOG.md)
-* [**Download on WordPress**](https://wordpress.org/plugins/wp-original-media-path/)
+* [**Download on WordPress**](https://wordpress.org/plugins/wp-original-media-path-multisite/)
 
